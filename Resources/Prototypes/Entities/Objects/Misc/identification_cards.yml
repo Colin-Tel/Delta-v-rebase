@@ -265,7 +265,8 @@
     - type: Sprite
       layers:
         - state: default
-        - state: idchaplain
+        - sprite: DeltaV/Objects/Misc/id_cards.rsi # DeltaV - Give Chaplain ID Epistemics colors
+          state: idchaplain
     - type: PresetIdCard
       job: Chaplain
 
@@ -386,7 +387,7 @@
 - type: entity
   parent: IDCardStandard
   id: RDIDCard
-  name: research director ID card
+  name: mystagogue ID card # DeltaV - Epistemics Department replacing Science
   components:
   - type: Sprite
     layers:
