@@ -532,3 +532,41 @@ Entries:
       message: Fixed Tortuga station's critical lack of hardsuits
   id: 81
   time: '2023-10-23T21:40:33.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Remove
+      message: >-
+        Removed prisoners from job selection, since they were spawning in
+        arrivals. Warden no longer requires prisoner playtime in the meantime.
+  id: 82
+  time: '2023-10-23T23:12:41.0000000+00:00'
+- author: VMSolidus
+  changes:
+    - type: Fix
+      message: Harpies can now be stripped, and can randomly be psychic
+  id: 83
+  time: '2023-10-23T23:32:00.0000000+00:00'
+- author: FluffiestFloof
+  changes:
+    - type: Fix
+      message: Fixed Mantis not having their Metapsionic Pulse.
+  id: 84
+  time: '2023-10-23T23:40:59.0000000+00:00'
+- author: JJ
+  changes:
+    - type: Tweak
+      message: Tweaked round weighting and lowered instances of Revs
+  id: 85
+  time: '2023-10-24T00:05:22.0000000+00:00'
+- author: FluffiestFloof
+  changes:
+    - type: Fix
+      message: Fixed Felinids not being able to eat certain food.
+  id: 86
+  time: '2023-10-24T00:36:33.0000000+00:00'
+- author: DebugOk
+  changes:
+    - type: Add
+      message: Merged Wizden, hopefully fixing some bugs
+  id: 87
+  time: '2023-10-24T00:46:22.0000000+00:00'
