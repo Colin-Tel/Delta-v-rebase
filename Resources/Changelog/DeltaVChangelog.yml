@@ -724,3 +724,23 @@ Entries:
       message: Add Psionic Antag Objectives
   id: 110
   time: '2023-10-28T19:06:51.0000000+00:00'
+- author: DebugOk
+  changes:
+    - type: Tweak
+      message: The 10 reserved whitelist slots have been removed until further notice.
+  id: 111
+  time: '2023-10-29T03:10:27.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Tweak
+      message: >-
+        Altered the rules. Read the latest changes to them at the top of the
+        rules list!
+  id: 112
+  time: '2023-10-29T17:36:46.0000000+00:00'
+- author: VMSolidus
+  changes:
+    - type: Add
+      message: Cargo can now order medical scrub crates
+  id: 113
+  time: '2023-10-29T17:38:19.0000000+00:00'
