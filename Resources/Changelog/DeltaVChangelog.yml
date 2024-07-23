@@ -3057,3 +3057,35 @@
   id: 442
   time: '2024-07-22T09:33:11.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/721
+- author: Colin-Tel
+  changes:
+  - message: Asterisk station has a few more rooms, check the map!
+    type: Tweak
+  - message: Micro station's salvage locator was replaced with a salvage magnet and
+      should no longer have grids intersect with the station.
+    type: Fix
+  id: 443
+  time: '2024-07-22T16:32:49.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1484
+- author: noctyrnal
+  changes:
+  - message: Walls, Airlocks and Tiles have received new sprites as per a visual resprite
+      project.
+    type: Tweak
+  id: 444
+  time: '2024-07-22T19:14:30.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1470
+- author: musicmanvr
+  changes:
+  - message: Added the Home Run Bat for Syndicate operatives. Send your foes flying!
+    type: Add
+  id: 445
+  time: '2024-07-22T19:20:00.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1476
+- author: DangerRevolution
+  changes:
+  - message: Construction of Security Cyborgs now requires extra steps.
+    type: Tweak
+  id: 446
+  time: '2024-07-23T10:29:35.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1523
